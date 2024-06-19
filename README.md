@@ -4,6 +4,9 @@
 💞️ I’m looking to collaborate on Data analytics ,Data science and Front end web development projects
 📫 How to reach me chandravivek2403@gmail.com
 
+About Me:-
+Hi! I'm Chandravivek, a passionate Data Analyst with a knack for transforming raw data into actionable insights that drive informed decisions. Proficient in Excel, Power BI, Python, and SQL, I relish tackling complex data challenges through analysis, interactive dashboards, and even a sprinkle of machine learning. This repository showcases my journey in the data world - projects, approaches, and a continuous quest for knowledge. Let's connect and explore this fascinating field together
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chandravivek_2403?igsh=MXM3ZXBoN3hwanE4cA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandravivek-sudunagunta-b22188247/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Chandravivek_S?t=Cp7p2xG-FOiCfOtZQJADgA&s=09) 
 
 
