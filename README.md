@@ -1,5 +1,8 @@
-
-## 🌐 Socials:
+👋 Hi, I’m Chandravivek
+👀 I’m interested in Data science and Machine Learning
+🌱 I’m currently learning Machine learning
+💞️ I’m looking to collaborate on Data analytics ,Data science and Front end web development projects
+📫 How to reach me chandravivek2403@gmail.com
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chandravivek_2403?igsh=MXM3ZXBoN3hwanE4cA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandravivek-sudunagunta-b22188247/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Chandravivek_S?t=Cp7p2xG-FOiCfOtZQJADgA&s=09) 
 
 # 💻 Tech Stack:
